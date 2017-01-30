@@ -1,6 +1,6 @@
 {
   "name": "csurl",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.1",
   "description": "ChakSoft URL Shortener API Access module",
   "main": "index.js",
   "scripts": {
