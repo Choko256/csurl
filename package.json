@@ -1,0 +1,27 @@
+{
+  "name": "csurl",
+  "version": "1.0.0-beta.1",
+  "description": "ChakSoft URL Shortener API Access module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choko256/csurl.git"
+  },
+  "author": "Michael Chacaton <chako256@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Choko256/csurl/issues"
+  },
+  "homepage": "https://github.com/Choko256/csurl#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
